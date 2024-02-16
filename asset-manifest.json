@@ -1,26 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.eabfa922.css",
-    "main.js": "/static/js/main.a86040c2.js",
+    "main.css": "/static/css/main.502eedfe.css",
+    "main.js": "/static/js/main.7c027f7a.js",
     "static/js/592.3a3265a8.chunk.js": "/static/js/592.3a3265a8.chunk.js",
     "static/media/BackgroundNegocio.mp4": "/static/media/BackgroundNegocio.132321e4fedcf1791c4f.mp4",
     "static/media/movie.mp4": "/static/media/movie.e151c8f8d88e479b214e.mp4",
     "static/media/SpeiVoxLogo.png": "/static/media/SpeiVoxLogo.b10f7a3d7bea1473ba17.png",
     "static/media/DesenvolvimentoDeSites.png": "/static/media/DesenvolvimentoDeSites.3005e3dee591a75eb117.png",
+    "static/media/linkedin.png": "/static/media/linkedin.83b2373acf9642900e51.png",
     "static/media/DesenvolvimentoDeSoftware.jpg": "/static/media/DesenvolvimentoDeSoftware.1a18fe021685110b2c54.jpg",
     "static/media/SpeiVoxCinza.png": "/static/media/SpeiVoxCinza.5cae696945d875ae3657.png",
     "static/media/ConsultoriaEmTecnologia.jpg": "/static/media/ConsultoriaEmTecnologia.1b4689cabdea0c9fd7c5.jpg",
     "static/media/Speivox3D.png": "/static/media/Speivox3D.ab0875fb0caad282921b.png",
+    "static/media/insta.png": "/static/media/insta.4d3c7bc63eaf5e30a731.png",
+    "static/media/wpp.png": "/static/media/wpp.5b437bb44c2c1e5f10af.png",
     "static/media/whatsapp.svg": "/static/media/whatsapp.a4f0e88dd2d4ee68ba5aadce7c513db7.svg",
     "static/media/linkedin.svg": "/static/media/linkedin.76207b7bee6ef5530e78ad8f7c22686d.svg",
     "static/media/instagram.svg": "/static/media/instagram.16683ffef840e3581962cc076a4696c9.svg",
     "index.html": "/index.html",
-    "main.eabfa922.css.map": "/static/css/main.eabfa922.css.map",
-    "main.a86040c2.js.map": "/static/js/main.a86040c2.js.map",
+    "main.502eedfe.css.map": "/static/css/main.502eedfe.css.map",
+    "main.7c027f7a.js.map": "/static/js/main.7c027f7a.js.map",
     "592.3a3265a8.chunk.js.map": "/static/js/592.3a3265a8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eabfa922.css",
-    "static/js/main.a86040c2.js"
+    "static/css/main.502eedfe.css",
+    "static/js/main.7c027f7a.js"
   ]
 }
