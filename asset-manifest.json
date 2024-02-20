@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.c0cacb92.css",
-    "main.js": "/static/js/main.6387e326.js",
+    "main.js": "/static/js/main.6c11b249.js",
     "static/js/592.3a3265a8.chunk.js": "/static/js/592.3a3265a8.chunk.js",
+    "static/media/movie.mp4": "/static/media/movie.55983dd25478b5656026.mp4",
     "static/media/BackgroundNegocio.mp4": "/static/media/BackgroundNegocio.132321e4fedcf1791c4f.mp4",
-    "static/media/movie.mp4": "/static/media/movie.e151c8f8d88e479b214e.mp4",
     "static/media/SpeiVoxLogo.png": "/static/media/SpeiVoxLogo.b10f7a3d7bea1473ba17.png",
     "static/media/DesenvolvimentoDeSites.png": "/static/media/DesenvolvimentoDeSites.3005e3dee591a75eb117.png",
     "static/media/linkedin.png": "/static/media/linkedin.83b2373acf9642900e51.png",
@@ -20,11 +20,11 @@
     "static/media/instagram.svg": "/static/media/instagram.16683ffef840e3581962cc076a4696c9.svg",
     "index.html": "/index.html",
     "main.c0cacb92.css.map": "/static/css/main.c0cacb92.css.map",
-    "main.6387e326.js.map": "/static/js/main.6387e326.js.map",
+    "main.6c11b249.js.map": "/static/js/main.6c11b249.js.map",
     "592.3a3265a8.chunk.js.map": "/static/js/592.3a3265a8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c0cacb92.css",
-    "static/js/main.6387e326.js"
+    "static/js/main.6c11b249.js"
   ]
 }
